@@ -1,0 +1,7 @@
+{
+  "name": "Şen Kurye",
+  "description": "Profesyonel çoklu paket kurye, aktif rota takibi, nakit/cari yönetimi ve teslimat uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

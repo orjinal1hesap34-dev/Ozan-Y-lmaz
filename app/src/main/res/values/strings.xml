@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Şen Kurye</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_tasks">Görevler</string>
+    <string name="title_route">Aktif Rota</string>
+    <string name="title_cash">Nakit &amp; Cari</string>
+    <string name="title_history">Geçmiş</string>
+    <string name="title_earnings">Kazançlar</string>
+    <string name="title_profile">Profil</string>
+</resources>
+

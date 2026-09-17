@@ -1,0 +1,7 @@
+package com.example.core.network
+
+import com.senkurye.courier.core.network.ConnectivityObserver as CoreConnectivityObserver
+import com.senkurye.courier.core.network.NetworkConnectivityObserver as CoreNetworkConnectivityObserver
+
+typealias ConnectivityObserver = CoreConnectivityObserver
+typealias NetworkConnectivityObserver = CoreNetworkConnectivityObserver
